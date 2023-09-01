@@ -30,7 +30,7 @@ De igual modo se uso un resert.css llamado desde del CSS:
 ```CSS
 @import url(reset.css);
 ```
-
+<!-- sakld -->
 Así como el llamado de una fuente tomada de internet para usar en el *font-family*:
 ```CSS
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Poppins:wght@400;600&display=swap');
